@@ -1,0 +1,1 @@
+Ruuvi Gateway Home Assistant integration that doesn't require a bearer token or the `aioruuvigateway` dependency.
